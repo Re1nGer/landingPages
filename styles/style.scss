@@ -1,0 +1,31 @@
+@import "_variables.scss";
+@import "header.scss";
+@import "intro.scss";
+@import "features.scss";
+@import "button.scss";
+@import "card.scss";
+@import "textarea.scss";
+@import "input.scss";
+@import "contact.scss";
+@import "address.scss";
+
+
+* {
+    margin: 0;
+    padding: 0;    
+    box-sizing: border-box;
+}
+
+body {
+     font-family: 'DM Sans', sans-serif;
+     background: #E4E3ED;
+}
+
+.container {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+
+

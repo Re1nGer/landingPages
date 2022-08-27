@@ -1,0 +1,20 @@
+.address {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.address__title {
+  text-align: center;
+  margin-bottom: 10px;
+  color: #1E0E62;
+  font-weight: 700;
+  font-size: 14px;
+}
+.address__subtitle {
+  color: #151439;
+  opacity: 0.4;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: center;
+}/*# sourceMappingURL=address.css.map */

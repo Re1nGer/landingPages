@@ -1,0 +1,18 @@
+.btn {
+  border: 0;
+  display: inline-block;
+  padding: 7px 22px;
+  font-weight: 500;
+  font-size: 18px;
+  background-color: #25DAC5;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 100px;
+}
+.btn--intro {
+  margin-bottom: 17px;
+  padding: 17px 41px;
+}
+.btn--contact {
+  padding: 17px 60px;
+}/*# sourceMappingURL=button.css.map */

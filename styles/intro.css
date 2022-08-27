@@ -1,0 +1,35 @@
+.intro_container {
+  max-width: 700px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.intro__inner {
+  margin-top: 93px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.intro__title {
+  font-weight: 700;
+  font-size: 72px;
+  color: #1E0E62;
+  margin-bottom: 37px;
+  letter-spacing: -1px;
+}
+.intro__subtitle {
+  font-weight: 500;
+  font-size: 22px;
+  padding: 0 60px;
+  opacity: 0.4;
+  text-align: center;
+  line-height: 32px;
+  color: #151439;
+  margin-bottom: 80px;
+}
+.intro__link {
+  color: #25DAC5;
+  font-size: 18px;
+  margin-bottom: 30px;
+}/*# sourceMappingURL=intro.css.map */

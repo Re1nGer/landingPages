@@ -1,0 +1,23 @@
+@import "variables.scss";
+
+
+.btn {
+    border: 0;
+    display: inline-block;
+    padding: 7px 22px;
+    font-weight: 500;
+    font-size: 18px;
+    background-color: $primary;
+    color: $white;
+    cursor: pointer;
+    border-radius: 100px;
+
+    &--intro {
+        margin-bottom: 17px;
+        padding: 17px 41px;
+    }
+
+    &--contact {
+        padding: 17px 60px;
+    }
+}

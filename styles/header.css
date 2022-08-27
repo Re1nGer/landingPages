@@ -1,0 +1,29 @@
+.header {
+  margin-top: 65px;
+}
+.header__inner {
+  display: flex;
+  justify-content: space-between;
+}
+.header__logo {
+  font-weight: 700;
+  font-size: 24px;
+  color: #1E0E62;
+}
+.header .nav {
+  display: flex;
+  align-items: center;
+}
+.header .nav__link {
+  color: #151439;
+  font-weight: 500;
+  font-size: 18px;
+  opacity: 0.4;
+  margin-right: 30px;
+  text-decoration: none;
+  align-items: center;
+}
+.header .nav__link--icon {
+  font-size: 16px;
+  align-items: center;
+}/*# sourceMappingURL=header.css.map */

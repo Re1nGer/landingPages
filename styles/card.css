@@ -1,0 +1,29 @@
+.card {
+  border: 2px solid #EBEAED;
+  height: 370px;
+  width: 340px;
+  padding: 60px 46px;
+  border-radius: 10px;
+}
+.card__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.card__icon {
+  font-size: 40px;
+  margin-bottom: 24px;
+  color: #482BE7;
+}
+.card__title {
+  font-size: 22px;
+  font-weight: 500;
+  margin-bottom: 22px;
+}
+.card__subtitle {
+  color: #151439;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+}/*# sourceMappingURL=card.css.map */
